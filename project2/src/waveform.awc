@@ -1,0 +1,55 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="cc6b1e57b983996b6169cca5a2151800">waveform.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/tb/clk</signal>
+        <signal>/tb/rst</signal>
+        <signal>/tb/DataALU</signal>
+        <signal>/tb/Data_out</signal>
+        <signal>/tb/Data_in</signal>
+        <signal>/tb/inPC</signal>
+        <signal>/tb/outPC</signal>
+        <signal>/tb/instruction</signal>
+        <signal>/tb/jump_address</signal>
+        <signal>/tb/out</signal>
+        <signal>/tb/state</signal>
+        <signal>/tb/ALU_ctrl</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="308624153499" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="192701910477" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>

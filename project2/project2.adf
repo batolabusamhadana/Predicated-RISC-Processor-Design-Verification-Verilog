@@ -1,0 +1,34 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=project2
+[Library]
+project2=.\project2\project2.lib
+[$LibMap$]
+project2=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/mutlicycle.v=-1
+/modules.v=-1
+/tb.v=-1
+/waveform.asdb=-1
+/waveform.awc=-1
+[Files.Data]
+.\src\mutlicycle.v=Verilog Source Code
+.\src\modules.v=Verilog Source Code
+.\src\tb.v=Verilog Source Code
+.\src\waveform.asdb=Accelerated Waveform File
+.\src\waveform.awc=Accelerated Waveform Configuration
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

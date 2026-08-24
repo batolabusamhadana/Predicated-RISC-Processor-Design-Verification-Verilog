@@ -1,0 +1,26 @@
+# VS Code
+.vscode/
+
+# Simulation/generated files
+*.vcd
+*.wlf
+*.log
+*.jou
+*.pb
+*.wdb
+
+# Vivado generated files
+*.cache/
+*.runs/
+*.gen/
+*.hw/
+*.ip_user_files/
+
+# Temporary files
+*.tmp
+*.bak
+~*
+
+# OS files
+.DS_Store
+Thumbs.db

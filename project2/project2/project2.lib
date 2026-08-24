@@ -1,0 +1,177 @@
+timestamp=1769100002986
+
+[~A]
+C:/Users/batol/OneDrive/Desktop/Third Year/Arch/Project2/1230058_1230738(1)/1230058_1230738/project2/src/mutlicycle.v_modules.v_tb.v=0*271280*276333
+LastVerilogToplevel=tb
+ModifyID=30
+Version=74
+c:/My_Designs/architecture_project2/project2/src/modules.v=0*115516*119071
+c:/My_Designs/architecture_project2/project2/src/mutlicycle.v=0*9097*10623
+c:/My_Designs/architecture_project2/project2/src/mutlicycle.v_modules.v_tb.v=0*250176*255109
+c:/My_Designs/architecture_project2/project2/src/tb.v=0*23826*24639
+
+[~MFT]
+0=24|0project2.mgf|276333|126943
+1=40|1project2.mgf|945626|911028
+3=80|3project2.mgf|683769|658355
+
+[$root]
+A/$root=22|||1*911028
+BinW64/$root=3*658355
+SLP=3*658470
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c9216c6cea921b1c01ae0339655387ce4f0cb
+
+[ALU]
+A/ALU=22|../src/modules.v|27|1*929892
+BinW64/ALU=3*667685
+R=../src/modules.v|27
+SLP=3*668536
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b3eb40c25b2a3c0379c7730185183eecf9fa78fcef327c071f13f74d3cbc218c
+
+[Controller]
+A/Controller=22|../src/modules.v|196|1*932868
+BinW64/Controller=3*670502
+R=../src/modules.v|196
+SLP=3*673256
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|18f02746c9996f3f291ad54b69f99121210ad6dfdd4b90870b5bb27c91ce6d7dc8eff2a9d477f35178f2d47f0200ab90
+
+[MultiCycle]
+A/MultiCycle=22|../src/mutlicycle.v|1|1*911450
+BinW64/MultiCycle=3*658538
+R=../src/mutlicycle.v|1
+SLP=3*660072
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b45525dec133dfebe955ae6dca3051284920a299cafb21aeed10ac4d681b127480d06645bbab74ffb0775b2a271a476a
+
+[add1]
+A/add1=22|../src/modules.v|457|1*944793
+BinW64/add1=3*681982
+R=../src/modules.v|457
+SLP=3*682373
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|231568fc416fcdab66840ad2cd71c7658f903145dadf185f6a7fd5723d9ab104
+
+[comparator]
+A/comparator=22|../src/modules.v|429|1*943028
+BinW64/comparator=3*680540
+R=../src/modules.v|429
+SLP=3*681039
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|380097b371b0850258ab7f532461b4d79a5f0fe3076e657a3a0f29edf58bad2fc789983c1004b3d667fe01537a40e744
+
+[comparatorR]
+A/comparatorR=22|../src/modules.v|443|1*943910
+BinW64/comparatorR=3*681276
+R=../src/modules.v|443
+SLP=3*681746
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|991c7152bf030d7ff1e91c473f7ec2b3322779df2816922a5a4ae718b97c6f5f878b3af00364b62683ce53af9b249c90
+
+[data_memory]
+A/data_memory=22|../src/modules.v|46|1*931029
+BinW64/data_memory=3*668913
+R=../src/modules.v|46
+SLP=3*669919
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|726284356dccaf29bb796a741e5c78b5503161ccddc43b92871758a951bfdd2ca73f3dfb7420dc36d6fe5a2c74c2085d
+
+[immExt]
+A/immExt=22|../src/modules.v|92|1*936625
+BinW64/immExt=3*675422
+R=../src/modules.v|92
+SLP=3*676106
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|36648bf5f753065cc68a73102bfc9f05e32cae97e1bfc97d248c0b6904e6c2b2
+
+[inst_mem]
+A/inst_mem=22|../src/modules.v|72|1*920026
+BinW64/inst_mem=3*661014
+R=../src/modules.v|72
+SLP=3*661730
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|1030d2a49dece39b96e8112a198a07896b28b4e53bff683f3c57bc95b85ee1bcf0ce2ac7240dbb35e0c50dc75e1c064e
+
+[inst_reg]
+A/inst_reg=22|../src/modules.v|374|1*921342
+BinW64/inst_reg=3*662156
+R=../src/modules.v|374
+SLP=3*662954
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|6c5006ec62e578c2bd4d91de85df290eff4b26329801fe0590e5a751b0c393b1e72ab434360efc0392c2888fe74f60d8
+
+[jump_calc]
+A/jump_calc=22|../src/modules.v|108|1*937648
+BinW64/jump_calc=3*676413
+R=../src/modules.v|108
+SLP=3*677093
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|a84967473ebf30e8f0a3fae130c2b51efe08ec5dd4a9166b7b73853feca17806f6a7fca6d3494d572ebcc4bc5f30c48a
+
+[mux2x1]
+A/mux2x1=22|../src/modules.v|139|1*938839
+BinW64/mux2x1=3*677356
+R=../src/modules.v|139
+SLP=3*677919
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|269c48f88c4a6630b0dac62e83881d97d71532e090c2c968c24fc4bfdbe0da84
+
+[mux2x1_1]
+A/mux2x1_1=22|../src/modules.v|153|1*939916
+BinW64/mux2x1_1=3*678169
+R=../src/modules.v|153
+SLP=3*678688
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|13209c295f67e39338e6f55b60ef5a530e5f81f0be3c2ee5ec020e13c0ab0cf5f9d9d855e264800f599f353acf02ffab
+
+[mux2x1_2]
+A/mux2x1_2=22|../src/modules.v|167|1*940851
+BinW64/mux2x1_2=3*678924
+R=../src/modules.v|167
+SLP=3*679488
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|fde743fe0c386f461da123767d35f11605633c1d0e51aa9f741bbc9fcc87ec177c3c336071229839a81e02835d85f821
+
+[mux2x1_3]
+A/mux2x1_3=22|../src/modules.v|181|1*941936
+BinW64/mux2x1_3=3*679743
+R=../src/modules.v|181
+SLP=3*680283
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|5fe447cbbe481cb0ef74b3f0f34146d02e44290a8794afea0706605a3a8edac987c82fd51028e99c4a345fe544db4d50
+
+[mux_4x1]
+A/mux_4x1=22|../src/modules.v|122|1*928573
+BinW64/mux_4x1=3*666726
+R=../src/modules.v|122
+SLP=3*667355
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|3e2e15c4f787188801e9d6a2853b4b6926527262ddaa47cb266f3a3c4d9b973a870ee9f74758589e750ae130f8c62ddb
+
+[register]
+A/register=22|../src/modules.v|407|1*927131
+BinW64/register=3*665950
+R=../src/modules.v|407
+SLP=3*666444
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|5fa1b53f1300c4835386baab9d0c635e1096506f0a00bc334a610cd78bf011dd82e66495becf200fc4d914dc723d1412
+
+[registerFile]
+A/registerFile=22|../src/modules.v|2|1*924486
+BinW64/registerFile=3*663566
+R=../src/modules.v|2
+SLP=3*665313
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|e5ad9fa76aa1626dc6021e30dae756772626a7f3e68474537778618e50ae61f00467c060a70a2d2e4cfddce6f42926a8
+
+[tb]
+A/tb=22|../src/tb.v|3|1*945626
+BinW64/tb=3*682534
+R=../src/tb.v|3
+SLP=3*683769
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|8db8692708dc0985d408d2497dbc95fad15123122320c5bada72ea68ac9b423b
+
+[~U]
+$root=12|0*266330|
+ALU=12|0*268262|
+Controller=12|0*268726|
+MultiCycle=12|0*266624|
+add1=12|0*270850||0x10
+comparator=12|0*270427||0x10
+comparatorR=12|0*270638||0x10
+data_memory=12|0*268469|
+immExt=12|0*269154|
+inst_mem=12|0*267018|
+inst_reg=12|0*267217|
+jump_calc=12|0*269362|
+mux2x1=12|0*269585||0x10
+mux2x1_1=12|0*269794||0x10
+mux2x1_2=12|0*270000||0x10
+mux2x1_3=12|0*270213||0x10
+mux_4x1=12|0*268038|
+register=12|0*267815|
+registerFile=12|0*267513|
+tb=12|0*271039||0x10
