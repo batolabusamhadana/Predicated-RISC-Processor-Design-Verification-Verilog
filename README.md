@@ -235,6 +235,9 @@ Computer Engineering Student — Birzeit University
 
 [LinkedIn](https://www.linkedin.com/in/batolabusamhadana) • [GitHub](https://github.com/batolabusamhadana)
 
+**Hala Sarsour** 
+Computer Engineering Student — Birzeit University
+
 ## Disclaimer
 
 This repository contains an academic project developed for educational purposes as part of the Computer Architecture course at Birzeit University.
