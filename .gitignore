@@ -1,20 +1,28 @@
-# VS Code
-.vscode/
-
-# Simulation/generated files
-*.vcd
+# Simulation / waveform files
+*.asdb
+*.awc
 *.wlf
+*.vcd
 *.log
 *.jou
 *.pb
 *.wdb
 
-# Vivado generated files
-*.cache/
-*.runs/
-*.gen/
-*.hw/
-*.ip_user_files/
+# Generated compilation files
+*.erf
+*.sth
+*.gen
+*.mgf
+*.lib
+*.dll
+*.info
+
+# Tool-generated directories
+compile/
+slp/
+
+# IDE / project-generated files
+.vscode/
 
 # Temporary files
 *.tmp
